@@ -1,0 +1,11 @@
+plotly==5.9.0
+seaborn==0.11.2
+shap==0.41.0
+openpyxl==3.0.9
+Numpy==1.22
+scikit-learn==1.2.2
+lime==0.2.0.1
+matplotlib==3.7.2
+matplotlib-inline==0.1.6
+pandas==2.1.0
+numpy==1.23.5
